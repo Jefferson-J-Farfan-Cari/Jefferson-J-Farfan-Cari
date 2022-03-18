@@ -3,7 +3,7 @@ _Keep calm and Keep Coding_
 
 ### I'm interestedn in 🚀
 ```
-- Learning maching learning and IA
+- Maching learning and IA
 - Cybersecurity
 - Authomatization
 ```
