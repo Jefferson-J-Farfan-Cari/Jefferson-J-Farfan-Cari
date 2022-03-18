@@ -5,7 +5,7 @@ _Keep calm and Keep Coding_
 ```
 - Maching learning and IA
 - Cybersecurity
-- Authomatization
+- Automatization
 ```
 ### I'm currently learning🌱
 ```
