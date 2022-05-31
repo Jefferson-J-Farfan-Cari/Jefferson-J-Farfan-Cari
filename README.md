@@ -10,7 +10,7 @@ _Keep calm and Keep Coding_
 ### I'm currently learning🌱
 ```
 - Docker
-- Servers (Jenkings, Nginx, Swagger)
+- Servers (Jenkins, Nginx, Swagger)
 - Cubernate
 ```
 ### How to reach me 📫
