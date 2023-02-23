@@ -1,14 +1,14 @@
 # Hi! my name is Jefferson Junnior Farfán Cari
 _Keep calm and Keep Coding_
 
-### I'm interestedn in 🚀
+### I'm interestedn in 🛫
 ```
 - Backend Web App - RESTful API
 - Mobile Dev
 - Dockerization
 - Automatization
 ```
-### Frameworks I use
+### Frameworks I use 💻
 ```
 - Django and Django Rest Framework
 - Java Spring Boot, Spring Security
@@ -16,19 +16,19 @@ _Keep calm and Keep Coding_
 - Angular
 - Vue
 ```
-### Databases I usually work with
+### Databases I usually work with 🫙
 ```
 - PostgreSQL
 - SQL Server
 - MySQL
 - Oracle Server
 ```
-### Mobile Dev with Android Studio
+### Mobile Dev with Android Studio 📱
 ```
 - Java
 - Kotlin
 ```
-### I'm currently learning🌱
+### I'm currently learning 🖥️🤯
 ```
 - Servers Management
 - Jenkins
